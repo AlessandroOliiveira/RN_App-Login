@@ -1,0 +1,6 @@
+{
+  "client": "",
+  "server": "http://localhost:3001",
+  "auth": "/auth/validate",
+  "login": "/login"
+}
